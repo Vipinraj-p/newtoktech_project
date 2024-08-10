@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472880958989",
+    "project_id": "newtok-tech",
+    "storage_bucket": "newtok-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472880958989:android:13daad5092cdb5bb918f44",
+        "android_client_info": {
+          "package_name": "com.example.newtoktech_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFE5OT6pTZrmv7xcjWWVmUSMeiVCYEbl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
